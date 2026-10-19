@@ -1,5 +1,7 @@
 # ScreenTextGrab
 
+**🌐 Website:** [turhe123.github.io/screen-text-grab](https://turhe123.github.io/screen-text-grab/)
+
 **Drag a box over any pixels on screen and the recognized text lands on your clipboard.**
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -28,7 +30,17 @@ ScreenTextGrab is a free, open-source, 100% native, backend-free alternative to 
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-menu.png" alt="ScreenTextGrab menu bar menu" width="720"></p>
+
+<p align="center"><em>The ScreenTextGrab menu bar menu with Capture Text (⇧⌘2), Capture Full Screen, Recent Captures, Settings and Support / Donate.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-settings.png" alt="ScreenTextGrab Settings window" width="560"></p>
+
+<p align="center"><em>Settings for the capture shortcut, recognition level, line joining, whitespace trimming, rotated-text retry, QR/barcode reading and OCR languages.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-permission.png" alt="Screen Recording permission explanation window" width="560"></p>
+
+<p align="center"><em>A first-run window explains why Screen Recording permission is needed and that images are processed on-device and never saved.</em></p>
 
 ## Install
 

@@ -1,0 +1,5 @@
+[
+  {"file":"01-menu.png","caption":"The ScreenTextGrab menu bar menu with Capture Text (⇧⌘2), Capture Full Screen, Recent Captures, Settings and Support / Donate.","alt":"ScreenTextGrab menu bar menu"},
+  {"file":"02-settings.png","caption":"Settings for the capture shortcut, recognition level, line joining, whitespace trimming, rotated-text retry, QR/barcode reading and OCR languages.","alt":"ScreenTextGrab Settings window"},
+  {"file":"03-permission.png","caption":"A first-run window explains why Screen Recording permission is needed and that images are processed on-device and never saved.","alt":"Screen Recording permission explanation window"}
+]
